@@ -1,0 +1,25 @@
+Analiza statystyczna age 
+         sex
+count   2937
+unique     2
+top     male
+freq    1681
+---
+
+ Dodano kolumne "lubi_ludzi" 
+0        no
+1       yes
+2        no
+3        no
+4        no
+       ... 
+2932     no
+2933     no
+2934     no
+2935     no
+2936    yes
+Name: lubi_ludzi, Length: 2937, dtype: object
+---
+
+ Kolory ubarwienia psow, ktore wykorzystano w wykresie: 
+['red', 'black and white', 'saddle back', 'yellow-brown', 'black', 'brown', 'gray and white', 'brown and white', 'tricolor', 'spotty', 'white', 'apricot', 'black and brown', 'golden', 'striped', 'yellow', 'wild boar', 'black and tan', 'gray and black', 'sable', 'gray', 'red and white', 'dotted']
