@@ -4,7 +4,7 @@ Projects developed as part of the Artificial Intelligence course.
 
 # Folder: Random_Forest - Airline satisfaction DataBase
 
-__Description:__The dataset describes airline customer satisfaction.
+__Description:__ The dataset describes airline customer satisfaction.
 
 __The dataset includes:__ 
     satisfaction,
@@ -33,7 +33,7 @@ __The dataset includes:__
 
 __Preparing the data to create the model:__ Columns containing string variables were changed to Boolean or numeric variables. In addition, NaN cells were removed and the value 0 entered.
 
-__Creation of decision trees:__Using all the data in the collection, the level of customer satisfaction with the airline was predicted. The model was checked using the Gini coefficient and Entropy.
+__Creation of decision trees:__ Using all the data in the collection, the level of customer satisfaction with the airline was predicted. The model was checked using the Gini coefficient and Entropy.
 
 The decision tree was then pruned to avoid overtraining. The pruning techniques are pruning maximum depth, leaf size and number of leaf nodes.
 
@@ -90,7 +90,9 @@ Using __ROC__, one can, for example:
 -decide what tactics the doctor will take regarding patients
 
 # Folder Dogs 
-Database:  Dogs Available for Adoption in the Hungarian Homeless Animals Database (from datahub.io)
+__Database__ :  Dogs Available for Adoption in the Hungarian Homeless Animals Database (from datahub.io)
+
 __Content:__ 
 The data is a compilation of information about dogs that were available for adoption on 12 December 2019 in the Hungarian Homeless Animals Database. There were a total of 2,937 dogs in the database. It contains information about the dogs' names, breed, colour, age, sex, the date they were found and some of their personality traits.
+
 The basic analysis of the database was done.
