@@ -48,7 +48,7 @@ Ease of online booking 0.091982
 Online support 0.058887
 
 
-# Folder Logistic Regression - Mobile network operator client category
+# Folder: Logistic Regression - Mobile network operator client category
 
 __Context:__
 The dataset contains various customer information such as age, region of residence, etc. Contains information downloaded by the telecom company.
@@ -89,7 +89,7 @@ Using __ROC__, one can, for example:
 
 -decide what tactics the doctor will take regarding patients
 
-# Folder Basic Analysis Dogs 
+# Folder: Basic Analysis Dogs 
 __Database__ :  Dogs Available for Adoption in the Hungarian Homeless Animals Database (from datahub.io)
 
 __Content:__ 
