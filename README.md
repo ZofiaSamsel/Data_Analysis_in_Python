@@ -89,7 +89,7 @@ Using __ROC__, one can, for example:
 
 -decide what tactics the doctor will take regarding patients
 
-# Folder Dogs 
+# Folder Basic Analysis Dogs 
 __Database__ :  Dogs Available for Adoption in the Hungarian Homeless Animals Database (from datahub.io)
 
 __Content:__ 
